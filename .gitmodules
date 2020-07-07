@@ -1,0 +1,18 @@
+[submodule "pack/hugh/start/syntastic"]
+	path = pack/hugh/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/hugh/start/mru"]
+	path = pack/hugh/start/mru
+	url = https://github.com/yegappan/mru.git
+[submodule "pack/hugh/start/nerdtree"]
+	path = pack/hugh/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "pack/hugh/start/ansible-vim"]
+	path = pack/hugh/start/ansible-vim
+	url = https://github.com/pearofducks/ansible-vim.git
+[submodule "pack/hugh/start/taglist"]
+	path = pack/hugh/start/taglist
+	url = https://github.com/yegappan/taglist.git
+[submodule "pack/hugh/start/vim-airline"]
+	path = pack/hugh/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
